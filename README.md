@@ -6,6 +6,6 @@
 ### 利用方法
 ###### ステップ1：<br>「20200806 [補助教材] VCNとData Scienceインスタンスの作成.pdf」に記載の手順に沿って、OCIにVCNおよびData Science Serviceのインスタンスを作成します。
 ###### ステップ2：<br>ノードブックセッションのターミナルから本リポジトリをクローンします。
-###### $ cd /home/datascience <br> $ git clone https://github.com/kenkensonson/ml.git
+###### $ cd /home/datascience <br> $ git clone https://github.com/kenkensonson/oci-datascience-hol01.git
 ###### ステップ3：<br>クローンしたディレクトリに配置された「HOK_ads_binary-classification-workflow-attrition.ipynb」をノートブックで開き、ラボを開始します。
 ###### ステップ4：<br>必要に応じて「20200806 [補助教材] OCI Data Science Service Hands-on Lab.pdf」を参照します。
